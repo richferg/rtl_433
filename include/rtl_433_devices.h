@@ -260,6 +260,7 @@
     DECL(schou_72543_rain) \
     DECL(fineoffset_wh55) \
     DECL(tpms_bmw) \
+    DECL(tpms_subaru) \
 
     /* Add new decoders here. */
 
